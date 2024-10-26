@@ -79,8 +79,11 @@ HMAC: [A hexadecimal hash value]
 Your project directory will have the following structure:
 
 📂 diffie-hellman-hmac
+
 │
+
 ├── 📄 diffie_hellman_hmac.ipynb # Jupyter notebook with explanations
+
 └──  📄 README.md # Project documentation
 
 ---
