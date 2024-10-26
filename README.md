@@ -117,10 +117,6 @@ git push origin feature-branch
 
 ---
 
-## Open a pull request.
-
----
-
 
 ## Author
 **srvn-nm**
